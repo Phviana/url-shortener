@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener.Api", "Api\UrlShortener.Api\UrlShortener.Api.csproj", "{33DD4598-D2BF-4C85-A8B5-B38C2A161D64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener.Api", "UrlShortener.Api\UrlShortener.Api.csproj", "{33DD4598-D2BF-4C85-A8B5-B38C2A161D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
